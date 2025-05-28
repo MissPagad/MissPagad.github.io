@@ -12,6 +12,6 @@ I specialize in Apex, Lightning Web Components (LWC), REST API integrations, Jav
 ---
 
 📄 [View My Resume](resume.pdf)  
-🔗 [LinkedIn](https://www.linkedin.com/in/bindu-pagad-433a72165)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bindu-pagad)  
 💻 [GitHub](https://github.com/MissPagad)  
-📬 [Email Me](mailto:bindu@gmail.com)
+📬 [Email Me](mailto:bindupagad181997@gmail.com)
