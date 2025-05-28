@@ -27,7 +27,7 @@ title: Welcome
     <div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin-bottom: 20px;">
       <img src="salesforce-google-sheets.png" alt="Salesforce to Google Sheets" style="width: 100%; border-radius: 4px;">
       <h3>Salesforce to Google Sheets</h3>
-      <p>Built using AWS + Salesforce. Automatically sync contacts to Google Sheets.</p>
+      <p>Built using Boomi + Google Cloud + Salesforce. Automatically sync contacts to Google Sheets.</p>
       <a href="https://github.com/MissPagad/salesforce-google-sheets" target="_blank">GitHub Repo</a> |
       <a href="SalesforceToSheets.pdf" target="_blank">Project PDF</a>
     </div>
