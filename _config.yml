@@ -1,0 +1,13 @@
+title: "Bindu Pagad"
+description: "Salesforce Developer | REST APIs | AWS | Heroku | LWC | Experience Cloud"
+baseurl: ""  # Important: blank for root site
+url: "https://misspagad.github.io"
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-feed
+
+author:
+  name: "Bindu Pagad"
+  email: bindupagad181997@gmail.com
