@@ -34,7 +34,7 @@ title: Welcome
 
   <!-- Project 2 -->
  <!-- <div style="flex: 0 1 350px; border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
-    <img src="heroku-sms-system.png" alt="AWS SMS System" style="width: 100%; border-radius: 4px;">
+    <img src="SFBoomi.png" alt="AWS SMS System" style="width: 100%; border-radius: 4px;">
     <h3>AWS-Powered SMS System</h3>
     <p>Built SMS service with Lambda, SNS & LWC on Heroku to reduce messaging cost by 25%.</p>
     <a href="https://github.com/MissPagad/aws-sms-system" target="_blank">GitHub Repo</a> |
