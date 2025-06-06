@@ -26,7 +26,7 @@ title: Welcome
 
   <!-- Project 1 -->
   <div style="flex: 0 1 350px; border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
-    <img src="salesforce-google-sheets.png" alt="Salesforce & Boomi Integration" style="width: 100%; border-radius: 4px;">
+    <img src="SFBoomi.png" alt="Salesforce & Boomi Integration" style="width: 100%; border-radius: 4px;">
     <h3>Salesforce to Email: Automated CSV Export</h3>
     <p>Automated Contact Sync from Salesforce to Gmail with Boomi.</p>
     <a href="SalesforceBoomi.pdf" target="_blank">PDF</a>
