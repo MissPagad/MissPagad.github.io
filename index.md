@@ -29,7 +29,6 @@ title: Welcome
     <img src="salesforce-google-sheets.png" alt="Salesforce to Google Sheets" style="width: 100%; border-radius: 4px;">
     <h3>Salesforce to Email: Automated CSV Export</h3>
     <p>Automated Contact Sync from Salesforce to Gmail with Boomi.</p>
-    <a href="https://github.com/MissPagad/salesforce-google-sheets" target="_blank">GitHub Repo</a> |
     <a href="SalesforceBoomi.pdf" target="_blank">PDF</a>
   </div>
 
