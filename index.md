@@ -33,11 +33,11 @@ title: Welcome
 </div>
 
   <!-- Project 2 -->
- <!-- <div style="flex: 0 1 350px; border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
+<div style="flex: 0 1 350px; border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
     <img src="SFCpq.png" alt="Salesforce CPQ – SaaS Subscription Quoting" style="width: 100%; border-radius: 4px;">
     <h3>SmartCloud CPQ – Pro SaaS Subscription Configuration</h3>
     <p>Salesforce CPQ to model a tiered SaaS pricing and bundling system for a fictional B2B software company.</p>
     <a href="SalesforceCPQ.pdf" target="_blank">PDF</a>
-  </div>-->
+  </div>
 
 </div>
