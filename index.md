@@ -37,7 +37,7 @@ title: Welcome
     <img src="SFCpq.png" alt="Salesforce CPQ – SaaS Subscription Quoting" style="width: 100%; border-radius: 4px;">
     <h3 style="color:#003366;">SmartCloud CPQ – Pro SaaS Subscription Configuration</h3>
     <p>Salesforce CPQ to model a tiered SaaS pricing and bundling system for a fictional B2B software company.</p>
-    <a href="Salesforcecpq.pdf" target="_blank" style="color:#003366;>PDF</a>
+    <a href="Salesforcecpq.pdf" target="_blank" style="color:#003366;">PDF</a>
   </div>
 
 </div>
