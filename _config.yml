@@ -3,7 +3,7 @@ description: "Salesforce Developer | APEX | LWC | Javascript | REST APIs | AWS |
 baseurl: ""  # Important: blank for root site
 url: "https://misspagad.github.io"
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 plugins:
   - jekyll-feed
