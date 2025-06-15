@@ -5,9 +5,6 @@ title: Welcome
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <img src="/assets/img/Bindu.jpg" alt="Bindu Pagad" style="width: 160px; border-radius: 50%; margin-bottom: 10px;">
-  <h2 style="color: #003366;">Bindu Pagad</h2>
-  <p>Salesforce Developer | APEX | LWC | Javascript | REST APIs | AWS | Heroku</p>
-  <p><a href="https://github.com/MissPagad">🌐 View My GitHub Profile</a></p>
 </div>
 
 <div style="max-width: 800px; margin: auto;">
@@ -32,36 +29,31 @@ title: Welcome
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px 0;">
 
-
-
 <!-- Project 1 -->
- <div style="flex: 0 1 350px; background-color: #f5f8fc; border: 1px solid #c9d6e3; border-radius: 8px; padding: 16px;">
+<div style="flex: 0 1 350px; background-color: #f5f8fc; border: 1px solid #c9d6e3; border-radius: 8px; padding: 16px;">
   <img src="SFBoomi.png" alt="Salesforce & Boomi Integration" style="width: 100%; border-radius: 4px;">
   <h3 style="color:#003366;">Salesforce & Boomi Integration</h3>
   <p>Automated Contact Sync from Salesforce to Gmail with Boomi.</p>
   <a href="SalesforceBoomi.pdf" target="_blank" style="color:#003366;">PDF</a>
 </div>
 
-  <!-- Project 2 -->
- <div style="flex: 0 1 350px; background-color: #f5f8fc; border: 1px solid #c9d6e3; border-radius: 8px; padding: 16px;">
-    <img src="SFCpq.png" alt="Salesforce CPQ – SaaS Subscription Quoting" style="width: 100%; border-radius: 4px;">
-    <h3 style="color:#003366;">SmartCloud CPQ – Pro SaaS Subscription Configuration</h3>
-    <p>Salesforce CPQ to model a tiered SaaS pricing and bundling system for a fictional B2B software company.</p>
-    <a href="Salesforcecpq.pdf" target="_blank" style="color:#003366;">PDF</a>
-  </div>
+<!-- Project 2 -->
+<div style="flex: 0 1 350px; background-color: #f5f8fc; border: 1px solid #c9d6e3; border-radius: 8px; padding: 16px;">
+  <img src="SFCpq.png" alt="Salesforce CPQ – SaaS Subscription Quoting" style="width: 100%; border-radius: 4px;">
+  <h3 style="color:#003366;">SmartCloud CPQ – Pro SaaS Subscription Configuration</h3>
+  <p>Salesforce CPQ to model a tiered SaaS pricing and bundling system for a fictional B2B software company.</p>
+  <a href="Salesforcecpq.pdf" target="_blank" style="color:#003366;">PDF</a>
+</div>
 
-  <!-- Project 3 -->
- <div style="flex: 0 1 350px; background-color: #f5f8fc; border: 1px solid #c9d6e3; border-radius: 8px; padding: 16px;">
-    <img src="CaseWorkflow.png" alt=">DragCase – Dynamic Service Workflow" style="width: 100%; border-radius: 4px;">
-    <h3 style="color:#003366;">DragCase – Dynamic Service Workflow</h3>
-    <p>A drag-and-drop, real-time Case workflow component reusable across Contact & Account record pages.</p>
-    <a href="DragCaseWorkFlow.pdf" target="_blank" style="color:#003366;">PDF</a>
-   <a href="https://github.com/MissPagad/ServiceCloudWorkflow.git" target="_blank" style="color:#003366;">GitHub</a>
-  </div>
-
+<!-- Project 3 -->
+<div style="flex: 0 1 350px; background-color: #f5f8fc; border: 1px solid #c9d6e3; border-radius: 8px; padding: 16px;">
+  <img src="CaseWorkflow.png" alt="DragCase – Dynamic Service Workflow" style="width: 100%; border-radius: 4px;">
+  <h3 style="color:#003366;">DragCase – Dynamic Service Workflow</h3>
+  <p>A drag-and-drop, real-time Case workflow component reusable across Contact & Account record pages.</p>
+  <a href="DragCaseWorkFlow.pdf" target="_blank" style="color:#003366;">PDF</a> |
+  <a href="https://github.com/MissPagad/ServiceCloudWorkflow.git" target="_blank" style="color:#003366;">GitHub</a>
 </div>
 
 </div>
 
-
-
+</div>
