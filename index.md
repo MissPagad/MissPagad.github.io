@@ -3,24 +3,38 @@ layout: default
 title: Welcome
 ---
 
-<!-- Personal Info -->
-# <span style="color:#003366;">👋 Hi, I’m Bindu Pagad</span>
+<!-- Left Sidebar with Image and GitHub Link -->
+<div style="display: flex; align-items: flex-start; gap: 30px;">
 
-🎯 Salesforce Developer with 4+ years of experience across **Sales, Service, Health**, and **Experience Cloud**.
+  <!-- Sidebar -->
+  <div style="flex: 0 0 220px; text-align: center;">
+    <img src="/assets/img/bindu.png" alt="Bindu Pagad" style="width: 100%; max-width: 180px; border-radius: 50%; margin-bottom: 20px;">
+    
+    <h2 style="color: #005288;">Bindu Pagad</h2>
+    <p>Salesforce Developer | APEX | LWC | Javascript | REST APIs | AWS | Heroku</p>
+    <p><a href="https://github.com/MissPagad">View My GitHub Profile</a></p>
 
-💡 Passionate about building scalable, API-first solutions using **Apex, LWC, JavaScript, REST APIs, AWS**, and **Heroku**.
+    <hr>
+    <h3 style="color: #003366;">🔗 Quick Links</h3>
+    <ul>
+      <li>📄 <a href="BinduPagad.pdf">View My Resume</a></li>
+      <li>🔗 <a href="https://www.linkedin.com/in/bindu-pagad">LinkedIn</a></li>
+      <li>💻 <a href="https://github.com/MissPagad">GitHub</a></li>
+      <li>📬 <a href="mailto:bindupagad181997@gmail.com">Email Me</a></li>
+    </ul>
+  </div>
 
----
+  <!-- Summary Content -->
+  <div style="flex: 1;">
+    <h1>👋 Hi, I’m Bindu Pagad</h1>
+    <p>🎯 Salesforce Developer with 4+ years of experience across <strong>Sales, Service, Health</strong>, and <strong>Experience Cloud</strong>.</p>
+    <p>💡 Passionate about building scalable, API-first solutions using <strong>Apex, LWC, JavaScript, REST APIs, AWS</strong>, and <strong>Heroku</strong>.</p>
+  </div>
 
-### <span style="color:#003366;">🔗 Quick Links</span>
-- 📄 [View My Resume](BinduPagad.pdf)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bindu-pagad)
-- 💻 [GitHub](https://github.com/MissPagad)
-- 📬 [Email Me](mailto:bindupagad181997@gmail.com)
+</div>
 
----
 
-## <span style="color:#003366;">🚀 Projects</span>
+## 🚀 Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px 0;">
 
