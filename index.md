@@ -40,4 +40,12 @@ title: Welcome
     <a href="Salesforcecpq.pdf" target="_blank" style="color:#003366;">PDF</a>
   </div>
 
+  <!-- Project 3 -->
+ <div style="flex: 0 1 350px; background-color: #f5f8fc; border: 1px solid #c9d6e3; border-radius: 8px; padding: 16px;">
+    <img src="CaseWorkflow.png" alt=">DragCase – Dynamic Service Workflow" style="width: 100%; border-radius: 4px;">
+    <h3 style="color:#003366;">DragCase – Dynamic Service Workflow</h3>
+    <p>A drag-and-drop, real-time Case workflow component reusable across Contact & Account record pages.</p>
+    <a href="DragCaseWorkFlow.pdf" target="_blank" style="color:#003366;">PDF</a>
+  </div>
+
 </div>
