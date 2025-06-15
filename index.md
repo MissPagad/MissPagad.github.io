@@ -3,42 +3,38 @@ layout: default
 title: Welcome
 ---
 
-<!-- Left Sidebar with Image and GitHub Link -->
-<div style="display: flex; align-items: flex-start; gap: 30px;">
-
-  <!-- Sidebar -->
-  <div style="flex: 0 0 220px; text-align: center;">
-    <img src="/assets/img/bindu.jpg" alt="Bindu Pagad" style="width: 100%; max-width: 180px; border-radius: 50%; margin-bottom: 20px;">
-    
-    <h2 style="color: #005288;">Bindu Pagad</h2>
-    <p>Salesforce Developer | APEX | LWC | Javascript | REST APIs | AWS | Heroku</p>
-    <p><a href="https://github.com/MissPagad">View My GitHub Profile</a></p>
-
-    <hr>
-    <h3 style="color: #003366;">🔗 Quick Links</h3>
-    <ul>
-      <li>📄 <a href="BinduPagad.pdf">View My Resume</a></li>
-      <li>🔗 <a href="https://www.linkedin.com/in/bindu-pagad">LinkedIn</a></li>
-      <li>💻 <a href="https://github.com/MissPagad">GitHub</a></li>
-      <li>📬 <a href="mailto:bindupagad181997@gmail.com">Email Me</a></li>
-    </ul>
-  </div>
-
-  <!-- Summary Content -->
-  <div style="flex: 1;">
-    <h1>👋 Hi, I’m Bindu Pagad</h1>
-    <p>🎯 Salesforce Developer with 4+ years of experience across <strong>Sales, Service, Health</strong>, and <strong>Experience Cloud</strong>.</p>
-    <p>💡 Passionate about building scalable, API-first solutions using <strong>Apex, LWC, JavaScript, REST APIs, AWS</strong>, and <strong>Heroku</strong>.</p>
-  </div>
-
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/assets/img/Bindu.jpg" alt="Bindu Pagad" style="width: 160px; border-radius: 50%; margin-bottom: 10px;">
+  <h2 style="color: #003366;">Bindu Pagad</h2>
+  <p>Salesforce Developer | APEX | LWC | Javascript | REST APIs | AWS | Heroku</p>
+  <p><a href="https://github.com/MissPagad">🌐 View My GitHub Profile</a></p>
 </div>
 
+<div style="max-width: 800px; margin: auto;">
+
+### 👋 Hi, I’m Bindu Pagad
+
+🎯 Salesforce Developer with 4+ years of experience across **Sales, Service, Health**, and **Experience Cloud**.
+
+💡 Passionate about building scalable, API-first solutions using **Apex, LWC, JavaScript, REST APIs, AWS**, and **Heroku**.
+
+---
+
+### 🔗 Quick Links
+- 📄 [View My Resume](BinduPagad.pdf)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bindu-pagad)
+- 💻 [GitHub](https://github.com/MissPagad)
+- 📬 [Email Me](mailto:bindupagad181997@gmail.com)
+
+---
 
 ## 🚀 Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px 0;">
 
-  <!-- Project 1 -->
+
+
+<!-- Project 1 -->
  <div style="flex: 0 1 350px; background-color: #f5f8fc; border: 1px solid #c9d6e3; border-radius: 8px; padding: 16px;">
   <img src="SFBoomi.png" alt="Salesforce & Boomi Integration" style="width: 100%; border-radius: 4px;">
   <h3 style="color:#003366;">Salesforce & Boomi Integration</h3>
@@ -64,3 +60,8 @@ title: Welcome
   </div>
 
 </div>
+
+</div>
+
+
+
