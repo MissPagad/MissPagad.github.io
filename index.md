@@ -8,7 +8,7 @@ title: Welcome
 
   <!-- Sidebar -->
   <div style="flex: 0 0 220px; text-align: center;">
-    <img src="/assets/img/bindu.png" alt="Bindu Pagad" style="width: 100%; max-width: 180px; border-radius: 50%; margin-bottom: 20px;">
+    <img src="/assets/img/bindu.jpg" alt="Bindu Pagad" style="width: 100%; max-width: 180px; border-radius: 50%; margin-bottom: 20px;">
     
     <h2 style="color: #005288;">Bindu Pagad</h2>
     <p>Salesforce Developer | APEX | LWC | Javascript | REST APIs | AWS | Heroku</p>
