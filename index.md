@@ -6,7 +6,7 @@ title: Welcome
 <!-- Personal Info -->
 # <span style="color:#003366;">👋 Hi, I’m Bindu Pagad</span>
 
-🎯 I have extensive Salesforce development experience across **Sales, Service, Health**, and **Experience Cloud**, holding 5 Salesforce certifications experience across **Sales, Service, Health**, and **Experience Cloud**.
+🎯 I have extensive Salesforce development experience across **Sales, Service, Health**, and **Experience Cloud**, holding 5 Salesforce certifications.
 
 💡 Passionate about building scalable, API-first solutions using **Apex, LWC, JavaScript, REST APIs, AWS**, and **Heroku**. 
 As a dedicated Salesforce enthusiast, I embrace new challenges within the dynamic Salesforce ecosystem.
