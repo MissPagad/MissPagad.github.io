@@ -1,4 +1,4 @@
----
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9218f9af-1c00-4dc5-9754-50556ea583aa" />---
 layout: default
 title: Welcome
 ---
@@ -47,6 +47,15 @@ As a dedicated Salesforce enthusiast, I embrace new challenges within the dynami
     <h3 style="color:#003366;">DragCase – Dynamic Service Workflow</h3>
     <p>A drag-and-drop, real-time Case workflow component reusable across Contact & Account record pages.</p>
     <a href="DragCaseWorkFlow.pdf" target="_blank" style="color:#003366;">PDF</a>
+   <a href="https://github.com/MissPagad/ServiceCloudWorkflow.git" target="_blank" style="color:#003366;">GitHub</a>
+  </div>
+
+  <!-- Project 4 -->
+ <div style="flex: 0 1 350px; background-color: #f5f8fc; border: 1px solid #c9d6e3; border-radius: 8px; padding: 16px;">
+    <img src="TriggerFlow.png" alt=">DragCase – Dynamic Service Workflow" style="width: 100%; border-radius: 4px;">
+    <h3 style="color:#003366;">File Management Automation</h3>
+    <p>Automation to copy files from Opportunities to their related Accounts, ensuring seamless document accessibility.</p>
+    <a href="CDLAutomation.pdf" target="_blank" style="color:#003366;">PDF</a>
    <a href="https://github.com/MissPagad/ServiceCloudWorkflow.git" target="_blank" style="color:#003366;">GitHub</a>
   </div>
 
