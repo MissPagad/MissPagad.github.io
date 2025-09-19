@@ -50,5 +50,11 @@ As a dedicated Salesforce enthusiast, I embrace new challenges within the dynami
    <a href="https://github.com/MissPagad/ServiceCloudWorkflow.git" target="_blank" style="color:#003366;">GitHub</a>
   </div>
 
- 
+ <!-- Project 4 -->
+ <div style="flex: 0 1 350px; background-color: #f5f8fc; border: 1px solid #c9d6e3; border-radius: 8px; padding: 16px;">
+    <img src="Triggerlow.png" alt=">DragCase – Dynamic Service Workflow" style="width: 100%; border-radius: 4px;">
+    <h3 style="color:#003366;">DragCase – Dynamic Service Workflow</h3>
+    <p>Automation to copy files from Opportunities to their related Accounts, ensuring seamless document accessibility.</p>
+    <a href="CDLAutomation.pdf" target="_blank" style="color:#003366;">PDF</a>
+  </div>
 </div>
