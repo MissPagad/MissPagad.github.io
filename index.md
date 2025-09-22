@@ -15,6 +15,8 @@ As a dedicated Salesforce enthusiast, I embrace new challenges within the dynami
 
 ### <span style="color:#003366;">🔗 Quick Links</span>
 - 📄 [View My Resume](BinduPagad.pdf)
+- 🏆 [Salesforce Certifications](BinduPagadCertifications.pdf)
+- 🌟 [Trailhead Profile](https://www.salesforce.com/trailblazer/bpagad)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bindu-pagad)
 - 💻 [GitHub](https://github.com/MissPagad)
 - 📬 [Email Me](mailto:bindupagad181997@gmail.com)
