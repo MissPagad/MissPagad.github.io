@@ -62,7 +62,7 @@ As a dedicated Salesforce enthusiast, I embrace new challenges within the dynami
 
   <!-- Project 5 -->
  <div style="flex: 0 1 350px; background-color: #f5f8fc; border: 1px solid #c9d6e3; border-radius: 8px; padding: 16px;">
-    <img src="CandenceManagement.png" alt="Cadence Creator for Salesforce" style="width: 100%; border-radius: 4px;">
+    <img src="CadenceManagement.png" alt="Cadence Creator for Salesforce" style="width: 100%; border-radius: 4px;">
    <h3 style="color:#003366;">Cadence Creator for Salesforce</h3>
     <p>A solution that automates follow-up task scheduling with customizable intervals, business hours alignment, and smart reminders.</p>
     <a href="https://github.com/MissPagad/CadenceCreatorWorkflow.git" target="_blank" style="color:#003366;">GitHub</a>
